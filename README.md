@@ -1,4 +1,4 @@
-# sliding-puzzle
+# Sliding-puzzle
 A fun sliding puzzle
 
 ## What is it?
